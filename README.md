@@ -1,6 +1,6 @@
 # GameTwoTitle
 
-##GameTwoTitle
+## GameTwoTitle
 
 This game will be 2D, side one game survival based game.
 Taking inspiration from Terarria/Noita the player has to complete a layer(stage) at a before progressing to the next.
