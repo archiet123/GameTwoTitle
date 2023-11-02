@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://cudsfull6gtju"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Node2D" type="Node2D" parent="."]
+position = Vector2(228.03, -413.758)
+
+[node name="Control" type="Control" parent="Node2D"]
+layout_mode = 3
+anchors_preset = 0
+offset_left = -292.0
+offset_top = -66.0
+offset_right = -195.0
+offset_bottom = 49.0
