@@ -20,7 +20,7 @@ strong enough weapons, materials, general resources can be collected on the play
 
 PlayerDetails:
 The player is a fallen angel that must work they way to hell from the overworld, defeat?? and then earn their right back to heaven.
-
+not sure what angel the player is to be based off.
 
 Base weapon is wooden stage (because of the vampires)
 
